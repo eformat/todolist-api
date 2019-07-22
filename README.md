@@ -6,4 +6,4 @@ API backend built in NodeJS using Express to add TODOs to a MongoDB.
 
 ## Start the db 
 This requires Docker installed.
-`npm run mongodb`
+`npm run mongo:start`
